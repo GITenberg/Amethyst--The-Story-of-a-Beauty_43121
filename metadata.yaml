@@ -1,0 +1,31 @@
+_repo: Amethyst--The-Story-of-a-Beauty_43121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleridge, Christabel R. (Christabel Rose)
+    aliases:
+    - Coleridge, C.R.
+    - Coleridge, C. R. (Christabel Rose)
+    - Coleridge, Christabel Rose
+    birthdate: 1843
+    deathdate: 1921
+    gutenberg_agent_id: '42030'
+    url: http://www.gutenberg.org/2009/agents/42030
+    wikipedia: https://en.wikipedia.org/wiki/Christabel_Rose_Coleridge
+description: ''
+gutenberg_issued: '2013-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: 'Amethyst: The Story of a Beauty'
+url: http://www.gutenberg.org/ebooks/43121
